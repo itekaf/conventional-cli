@@ -1,4 +1,3 @@
-
 import { IUsage } from "./IUsage";
 import { IUsageProperty } from "./IUsageProperty";
 

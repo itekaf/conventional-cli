@@ -1,3 +1,3 @@
 interface IUsageProperty {}
 
-export { IUsageProperty }
+export { IUsageProperty };
