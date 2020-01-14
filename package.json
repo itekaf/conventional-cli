@@ -1,0 +1,19 @@
+{
+  "name": "conventional-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svoboda-rabstvo/conventional-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svoboda-rabstvo/conventional-cli/issues"
+  },
+  "homepage": "https://github.com/svoboda-rabstvo/conventional-cli#readme"
+}
