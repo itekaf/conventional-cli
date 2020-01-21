@@ -55,7 +55,6 @@ Please check our [contributing guidelines][contributing].
 
 [MIT][license-url]
 
-[conventional-cli]: https://github.com/ngx-translate/core
 [travis-shield]: https://img.shields.io/travis/svoboda-rabstvo/conventional-cli/master.svg
 [travis-url]: https://travis-ci.com/svoboda-rabstvo/conventional-cli/branches
 [semantic-shield]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
