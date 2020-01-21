@@ -6,4 +6,4 @@ export {
     ArgumentTypes,
     Section, UsageProperty, Argument, Command, Usage,
     ISection, IUsageProperty, IArgument, ICommand, IUsage
-}
+};
