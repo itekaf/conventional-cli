@@ -10,7 +10,8 @@
     "cli",
     "conventional"
   ],
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc -p .",
     "lint": "tslint -c tslint.json --project . -t codeFrame",
