@@ -1,7 +1,7 @@
 {
   "author": "Raman Lauryniuk <romanrostislavovich@gmail.com>",
   "name": "conventional-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conventional for CLI tools",
   "license": "MIT",
   "repository": "svoboda-rabstvo/conventional-cli",
