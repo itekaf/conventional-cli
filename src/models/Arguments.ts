@@ -64,7 +64,10 @@ export class Argument implements IArgument {
     public deprecated?: boolean | undefined;
 
     /**
-     * @constructor
+     * The additional description of the argument
+     * @type {?string | undefined}
      */
+    public additionalDescription?: string | undefined;
+
     constructor() { }
 }
