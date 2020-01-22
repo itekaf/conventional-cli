@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [1.0.2](https://github.com/svoboda-rabstvo/conventional-cli/compare/v1.0.1...v1.0.2) (2020-01-22)
+
+
+### Bug Fixes
+
+* add `additionalDescription` for ArgumentModel ([e057d22](https://github.com/svoboda-rabstvo/conventional-cli/commit/e057d22bb1e7a7e8b20415cb7f7ebd5dfa6878ab))
+* add `enum` for ArgumentTypes ([bcaf5e5](https://github.com/svoboda-rabstvo/conventional-cli/commit/bcaf5e5e6980a067aa04d2749f00f9d215242306))
+* add `glob` for ArgumentTypes ([04dcaaa](https://github.com/svoboda-rabstvo/conventional-cli/commit/04dcaaa47635afac80a62a3730a95d0d84d12e42))
+
 ## [1.0.1](https://github.com/svoboda-rabstvo/conventional-cli/compare/v1.0.0...v1.0.1) (2020-01-21)
 
 
