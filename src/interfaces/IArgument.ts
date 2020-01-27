@@ -67,4 +67,10 @@ export interface IArgument extends IUsageProperty {
      * @type {?boolean | undefined}
      */
     deprecated?: boolean | undefined;
+
+    /**
+     * The argument is on the beta step and some functionality can be not work
+     * @type {?boolean | undefined}
+     */
+    beta?: boolean | undefined;
 }
