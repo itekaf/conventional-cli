@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [1.1.0](https://github.com/svoboda-rabstvo/conventional-cli/compare/v1.0.2...v1.1.0) (2020-01-27)
+
+
+### Features
+
+* add beta option for argument ([c6441c9](https://github.com/svoboda-rabstvo/conventional-cli/commit/c6441c93fe3f111db151475cb4f34966319c3a56))
+
 ## [1.0.2](https://github.com/svoboda-rabstvo/conventional-cli/compare/v1.0.1...v1.0.2) (2020-01-22)
 
 
