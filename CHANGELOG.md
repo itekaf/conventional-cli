@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [1.2.0](https://github.com/svoboda-rabstvo/conventional-cli/compare/v1.1.0...v1.2.0) (2020-01-29)
+
+
+### Features
+
+* add path via argumentType ([9cfa268](https://github.com/svoboda-rabstvo/conventional-cli/commit/9cfa2681cd714a6fe589af7a959afc9aaa3537e6))
+
 # [1.1.0](https://github.com/svoboda-rabstvo/conventional-cli/compare/v1.0.2...v1.1.0) (2020-01-27)
 
 
