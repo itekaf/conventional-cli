@@ -1,0 +1,43 @@
+{
+  "author": "Raman Lauryniuk <romanrostislavovich@gmail.com>",
+  "name": "conventional-cli",
+  "version": "1.2.0",
+  "description": "Conventional for CLI tools",
+  "license": "MIT",
+  "repository": "svoboda-rabstvo/conventional-cli",
+  "bugs": "https://github.com/svoboda-rabstvo/conventional-cli/issues",
+  "keywords": [
+    "cli",
+    "conventional"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p .",
+    "lint": "tslint -c tslint.json --project . -t codeFrame",
+    "test": "npm run lint && npm run build",
+    "semantic-release": "semantic-release"
+  },
+  "files": [
+    "dist/",
+    "README.md"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run test"
+    }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest",
+    "access": "public"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/git": "^8.0.0",
+    "husky": "^0.14.3",
+    "semantic-release": "^16.0.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  }
+}
