@@ -5,6 +5,7 @@
 export enum ArgumentTypes {
     enum = 'enum',
     glob = 'glob',
+    path = 'path',
     array = 'array',
     string = 'string',
     number = 'number',

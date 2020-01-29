@@ -43,6 +43,7 @@ argument.default = 'enum2';
 argument.required = false;
 argument.deprecated = false;
 argument.delimiter = ' ';
+argument.beta = '';
 ```
 
 ## Contribute
